@@ -20,7 +20,7 @@ onValue(shoppingListIndDB, function(snapshot){
         }
     }
     else{
-        shoppingListEl.innerHTML = "no items here..."
+        shoppingListEl.innerHTML = "niente da comprare..."
     }
 })
 
